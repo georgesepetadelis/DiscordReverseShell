@@ -2,7 +2,7 @@ import discord
 import os
 
 client = discord.Client()
-token = "ODQwNjMwMjM4MzExODc0NjM3.YJa_6g.NP0WoBn3tIjZafJuO1WUrnkKEaY" 
+token = "YOUR_TOKEN_ID" 
 
 async def send_custom_msg(msg):
 	await message.channel.send(msg)
